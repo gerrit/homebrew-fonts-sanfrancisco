@@ -1,6 +1,6 @@
 cask 'font-sanfrancisco' do
   version :latest
-  sha256 '891ed6bba47b299704b4788f9ca416f9cc638a4c3c9cef48381ed64fef0ff39c'
+  sha256 '362217cca45425fe1e86307cc690f78fa84289ee2e11e71fb6c49d54c13b8017'
 
   # devimages-cdn.apple.com was verified as official when first introduced to the cask
   url 'https://devimages-cdn.apple.com/design/downloads/SF-Font.dmg'
